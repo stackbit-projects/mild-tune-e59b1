@@ -159,5 +159,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://mild-tune-e59b1.netlify.app"
 }
